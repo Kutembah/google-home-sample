@@ -1,1 +1,1 @@
-# this is a sample of the google homepage
+# this is a sample for the google homepage
